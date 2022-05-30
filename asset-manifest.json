@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo_Remove/static/css/main.c79b695c.css",
+    "main.js": "/Todo_Remove/static/js/main.1f5b777a.js",
+    "index.html": "/Todo_Remove/index.html",
+    "main.c79b695c.css.map": "/Todo_Remove/static/css/main.c79b695c.css.map",
+    "main.1f5b777a.js.map": "/Todo_Remove/static/js/main.1f5b777a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79b695c.css",
+    "static/js/main.1f5b777a.js"
+  ]
+}
